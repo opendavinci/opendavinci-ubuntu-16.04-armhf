@@ -63,3 +63,5 @@ RUN apt-get install -y --no-install-recommends ffmpeg
 
 RUN apt-get install -y --no-install-recommends netcat-openbsd
 
+RUN apt-get install -y --no-install-recommends libfuse-dev
+
