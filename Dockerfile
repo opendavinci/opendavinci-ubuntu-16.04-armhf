@@ -67,3 +67,5 @@ RUN apt-get install -y --no-install-recommends libfuse-dev
 
 RUN apt-get install -y --no-install-recommends gdbserver
 
+RUN apt-get install -y --no-install-recommends libncurses-dev
+
